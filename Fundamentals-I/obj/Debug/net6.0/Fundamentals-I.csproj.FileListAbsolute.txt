@@ -1,0 +1,15 @@
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/bin/Debug/net6.0/Fundamentals-I
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/bin/Debug/net6.0/Fundamentals-I.deps.json
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/bin/Debug/net6.0/Fundamentals-I.runtimeconfig.json
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/bin/Debug/net6.0/Fundamentals-I.dll
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/bin/Debug/net6.0/Fundamentals-I.pdb
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/obj/Debug/net6.0/Fundamentals-I.csproj.AssemblyReference.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/obj/Debug/net6.0/Fundamentals-I.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/obj/Debug/net6.0/Fundamentals-I.AssemblyInfoInputs.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/obj/Debug/net6.0/Fundamentals-I.AssemblyInfo.cs
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/obj/Debug/net6.0/Fundamentals-I.csproj.CoreCompileInputs.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/obj/Debug/net6.0/Fundamentals-I.dll
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/obj/Debug/net6.0/refint/Fundamentals-I.dll
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/obj/Debug/net6.0/Fundamentals-I.pdb
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/obj/Debug/net6.0/Fundamentals-I.genruntimeconfig.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/Fundamentals-I/obj/Debug/net6.0/ref/Fundamentals-I.dll
